@@ -21,6 +21,8 @@ USE VARIABLE VALUE
 END THE PROGRAM
 
 ## Program:
+DEVELOPED BY : prem kumar .s
+REGISTER NUM :23013598
 ```
 import numpy as np
 X = np.array([[1, 2], [2, 3], [3, 4]])
